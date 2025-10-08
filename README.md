@@ -1,5 +1,8 @@
 # Docify-showcase
 Docify - An AI-powered document analysis platform with a cyberpunk-inspired UI.
+
+https://github.com/user-attachments/assets/41663b03-1c10-4bd3-bc2a-167f05c5e289
+
 # Docify - AI Document Reader
 
 ![Version](https://img.shields.io/badge/version-1.0.0-orange)
